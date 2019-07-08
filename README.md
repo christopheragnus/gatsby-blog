@@ -37,4 +37,4 @@ For windows users, go through the installation instructions for [cross-env](http
 
 1. Have a text editor installed, i.e. [VSCode](https://code.visualstudio.com/)
 2. Have the Gatsby CLI (gatsby-cli) installed globally by running:
-`npm install -g gatsby-cli`
+`npm install -g gatsby-cli`# gatsby-blog
